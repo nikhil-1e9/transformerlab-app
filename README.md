@@ -15,32 +15,12 @@
     <a href="https://twitter.com/transformerlab"><img src="https://img.shields.io/twitter/follow/transformerlab?style=flat&logo=x&color=black" alt="Twitter"></a>
   </p>
 
-  <p>
-    <a href="https://lab.cloud/docs/install/"><strong>⬇️ Install for Individuals</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://lab.cloud/for-teams/install"><strong>🏢 Install for Teams</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://lab.cloud/docs/"><strong>📖 Documentation</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://youtu.be/tY5TAvKviLo"><strong>🎬 Demo</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://discord.gg/transformerlab"><strong>💬 Discord</strong></a>
-  </p>
-
-  <br/>
   
-  <a href="https://future.mozilla.org/builders/">
-    <img src="https://img.shields.io/badge/Backed_by-Mozilla_Builders-black?style=flat&logo=mozilla" alt="Mozilla Builders">
-  </a>
 </div>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p align="center">
-  <img src="assets/transformerlab-demo-jan2025.gif" alt="Transformer Lab Demo" width="800">
-</p>
-
----
+<!--
 
 ## ✨ What is Transformer Lab?
 
@@ -237,6 +217,10 @@ AGPL-3.0 · See [LICENSE](LICENSE) for details.
   <a href="https://github.com/transformerlab/transformerlab-app/issues/new"><img src="https://img.shields.io/badge/GitHub-Report_Issue-181717?style=for-the-badge&logo=github" alt="GitHub Issues"></a>
 </p>
 
+
+
+
 <p align="center">
   <sub>Built with ❤️ by <a href="https://twitter.com/transformerlab">Transformer Lab</a> in Canada 🇨🇦</sub>
 </p>
+--> 
